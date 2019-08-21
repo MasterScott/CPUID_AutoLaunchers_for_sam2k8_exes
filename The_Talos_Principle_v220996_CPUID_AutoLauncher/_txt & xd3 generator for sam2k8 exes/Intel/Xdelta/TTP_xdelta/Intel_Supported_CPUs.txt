@@ -1,0 +1,308 @@
+Intel Atom Z3740
+Intel Atom Z3775
+Intel Celeron 1000M
+Intel Celeron 1007U
+Intel Celeron 1037U
+Intel Celeron 2955U
+Intel Celeron 2981U
+Intel Celeron 900
+Intel Celeron B810 ~ A
+Intel Celeron B810 ~ B
+Intel Celeron E3200
+Intel Celeron E3300
+Intel Celeron E3400
+Intel Celeron G530
+Intel Celeron G550
+Intel Celeron N2806
+Intel Celeron N2820
+Intel Celeron N2830
+Intel Celeron N2930
+Intel Core 2 Duo E4400
+Intel Core 2 Duo E4500
+Intel Core 2 Duo E4600
+Intel Core 2 Duo E6300
+Intel Core 2 Duo E6320
+Intel Core 2 Duo E6400 ~ A
+Intel Core 2 Duo E6400 ~ B
+Intel Core 2 Duo E6420
+Intel Core 2 Duo E6550
+Intel Core 2 Duo E6600
+Intel Core 2 Duo E6700
+Intel Core 2 Duo E6750
+Intel Core 2 Duo E6850
+Intel Core 2 Duo E7200
+Intel Core 2 Duo E7400 ~ A
+Intel Core 2 Duo E7400 ~ B
+Intel Core 2 Duo E7500
+Intel Core 2 Duo E8200
+Intel Core 2 Duo E8300
+Intel Core 2 Duo E8400 ~ A
+Intel Core 2 Duo E8400 ~ B
+Intel Core 2 Duo E8500 ~ A
+Intel Core 2 Duo E8500 ~ B
+Intel Core 2 Duo E8600
+Intel Core 2 Duo P7450 ~ A
+Intel Core 2 Duo P7450 ~ B
+Intel Core 2 Duo P7550
+Intel Core 2 Duo P8400
+Intel Core 2 Duo P8600
+Intel Core 2 Duo P8700
+Intel Core 2 Duo P8800
+Intel Core 2 Duo P9500
+Intel Core 2 Duo SU7300
+Intel Core 2 Duo T5750
+Intel Core 2 Duo T5800
+Intel Core 2 Duo T5850
+Intel Core 2 Duo T6400
+Intel Core 2 Duo T6500
+Intel Core 2 Duo T6600
+Intel Core 2 Duo T7500
+Intel Core 2 Duo T9300
+Intel Core 2 Duo T9400 ~ A
+Intel Core 2 Duo T9400 ~ B
+Intel Core 2 Duo T9550
+Intel Core 2 Duo T9600
+Intel Core 2 Duo T9800
+Intel Core 2 Duo T9900
+Intel Core 2 Extreme X9650
+Intel Core 2 Quad Q6600
+Intel Core 2 Quad Q6700
+Intel Core 2 Quad Q8200 ~ A
+Intel Core 2 Quad Q8200 ~ B
+Intel Core 2 Quad Q8300 ~ A
+Intel Core 2 Quad Q8300 ~ B
+Intel Core 2 Quad Q8400 ~ A
+Intel Core 2 Quad Q8400 ~ B
+Intel Core 2 Quad Q9000
+Intel Core 2 Quad Q9300
+Intel Core 2 Quad Q9400
+Intel Core 2 Quad Q9450
+Intel Core 2 Quad Q9500
+Intel Core 2 Quad Q9505
+Intel Core 2 Quad Q9550 ~ A
+Intel Core 2 Quad Q9550 ~ B
+Intel Core 2 Quad Q9650
+Intel Core i3 2100
+Intel Core i3 2120
+Intel Core i3 2130
+Intel Core i3 2310M
+Intel Core i3 2328M
+Intel Core i3 2330M
+Intel Core i3 2348M
+Intel Core i3 2350M
+Intel Core i3 2370M
+Intel Core i3 3110M
+Intel Core i3 3120M
+Intel Core i3 3210
+Intel Core i3 3217U
+Intel Core i3 3220
+Intel Core i3 3225
+Intel Core i3 3227U
+Intel Core i3 3240
+Intel Core i3 330M
+Intel Core i3 350M ~ A
+Intel Core i3 350M ~ B
+Intel Core i3 370M
+Intel Core i3 380M
+Intel Core i3 4000M
+Intel Core i3 4005U
+Intel Core i3 4010U
+Intel Core i3 4130
+Intel Core i3 4150
+Intel Core i3 4160
+Intel Core i3 4330
+Intel Core i3 4360
+Intel Core i3 530
+Intel Core i3 540 ~ A
+Intel Core i3 540 ~ B
+Intel Core i3 550
+Intel Core i5 2300
+Intel Core i5 2310
+Intel Core i5 2320
+Intel Core i5 2400
+Intel Core i5 2410M ~ A
+Intel Core i5 2410M ~ B
+Intel Core i5 2430M ~ A
+Intel Core i5 2430M ~ B
+Intel Core i5 2450M
+Intel Core i5 2500
+Intel Core i5 2500K
+Intel Core i5 2520M
+Intel Core i5 2550K
+Intel Core i5 3210M
+Intel Core i5 3230M
+Intel Core i5 3317U
+Intel Core i5 3330
+Intel Core i5 3337U
+Intel Core i5 3340
+Intel Core i5 3350P
+Intel Core i5 3427U
+Intel Core i5 3439Y
+Intel Core i5 3450
+Intel Core i5 3470
+Intel Core i5 3470S
+Intel Core i5 3550
+Intel Core i5 3570
+Intel Core i5 3570K ~ A
+Intel Core i5 3570K ~ B
+Intel Core i5 4200H
+Intel Core i5 4200M
+Intel Core i5 4200U
+Intel Core i5 4210M
+Intel Core i5 4210U
+Intel Core i5 4250U
+Intel Core i5 4258U
+Intel Core i5 4288U
+Intel Core i5 4300M
+Intel Core i5 4300U
+Intel Core i5 430M
+Intel Core i5 4430
+Intel Core i5 4440
+Intel Core i5 4460
+Intel Core i5 450M
+Intel Core i5 4570
+Intel Core i5 4570R
+Intel Core i5 4590
+Intel Core i5 460M
+Intel Core i5 4670
+Intel Core i5 4670K
+Intel Core i5 4690
+Intel Core i5 4690K
+Intel Core i5 480M
+Intel Core i5 520M
+Intel Core i5 540M
+Intel Core i5 650 ~ A
+Intel Core i5 650 ~ B
+Intel Core i5 661
+Intel Core i5 750
+Intel Core i5 760
+Intel Core i7 2600
+Intel Core i7 2600K
+Intel Core i7 2600S
+Intel Core i7 2620M
+Intel Core i7 2630QM ~ A
+Intel Core i7 2630QM ~ B
+Intel Core i7 2640M
+Intel Core i7 2670QM ~ A
+Intel Core i7 2670QM ~ B
+Intel Core i7 2670QM ~ C
+Intel Core i7 2700K
+Intel Core i7 2720QM
+Intel Core i7 2820QM
+Intel Core i7 2860QM
+Intel Core i7 3517U
+Intel Core i7 3520M
+Intel Core i7 3537U
+Intel Core i7 3610QM
+Intel Core i7 3612QM
+Intel Core i7 3615QM
+Intel Core i7 3630QM
+Intel Core i7 3632QM
+Intel Core i7 3635QM
+Intel Core i7 3667U
+Intel Core i7 3720QM
+Intel Core i7 3740QM
+Intel Core i7 3770 ~ A
+Intel Core i7 3770 ~ B
+Intel Core i7 3770K
+Intel Core i7 3820
+Intel Core i7 3840QM
+Intel Core i7 3920XM
+Intel Core i7 3930K ~ A
+Intel Core i7 3930K ~ B
+Intel Core i7 3970X
+Intel Core i7 4500U
+Intel Core i7 4510U
+Intel Core i7 4578U
+Intel Core i7 4600M
+Intel Core i7 4700HQ
+Intel Core i7 4700MQ
+Intel Core i7 4702MQ
+Intel Core i7 4710HQ ~ A
+Intel Core i7 4710HQ ~ B
+Intel Core i7 4710MQ
+Intel Core i7 4712MQ
+Intel Core i7 4770
+Intel Core i7 4770K ~ A
+Intel Core i7 4770K ~ B
+Intel Core i7 4770S
+Intel Core i7 4771
+Intel Core i7 4790
+Intel Core i7 4790K ~ A
+Intel Core i7 4790K ~ B
+Intel Core i7 4800MQ ~ A
+Intel Core i7 4800MQ ~ B
+Intel Core i7 4810MQ
+Intel Core i7 4820K
+Intel Core i7 4870HQ
+Intel Core i7 4900MQ
+Intel Core i7 4930K
+Intel Core i7 5820K
+Intel Core i7 5930K
+Intel Core i7 5960X
+Intel Core i7 620M
+Intel Core i7 720QM
+Intel Core i7 740QM
+Intel Core i7 820QM
+Intel Core i7 860
+Intel Core i7 870
+Intel Core i7 875K
+Intel Core i7 920 ~ A
+Intel Core i7 920 ~ B
+Intel Core i7 930
+Intel Core i7 940
+Intel Core i7 950
+Intel Core i7 960
+Intel Core i7 965
+Intel Core i7 970
+Intel Core i7 980
+Intel Core i7 980X
+Intel Pentium 2020M
+Intel Pentium 2117U
+Intel Pentium 3558U
+Intel Pentium 4 630
+Intel Pentium 4 631
+Intel Pentium 4 641
+Intel Pentium B950
+Intel Pentium B970
+Intel Pentium D 930
+Intel Pentium D 945
+Intel Pentium D 950
+Intel Pentium E2160 ~ A
+Intel Pentium E2160 ~ B
+Intel Pentium E2180
+Intel Pentium E2200
+Intel Pentium E2220
+Intel Pentium E5200 ~ A
+Intel Pentium E5200 ~ B
+Intel Pentium E5300
+Intel Pentium E5400 ~ A
+Intel Pentium E5400 ~ B
+Intel Pentium E5700 ~ A
+Intel Pentium E5700 ~ B
+Intel Pentium E6300
+Intel Pentium E6500
+Intel Pentium E6600
+Intel Pentium G2020
+Intel Pentium G2030
+Intel Pentium G2130
+Intel Pentium G3220 ~ A
+Intel Pentium G3220 ~ B
+Intel Pentium G3420
+Intel Pentium G620
+Intel Pentium G630 ~ A
+Intel Pentium G630 ~ B
+Intel Pentium G6951
+Intel Pentium G850
+Intel Pentium P6100
+Intel Pentium P6200
+Intel Pentium T4200
+Intel Pentium T4300
+Intel Pentium T4400
+Intel Xeon E3 1230 v2
+Intel Xeon E3 1230 v3
+Intel Xeon E3 1231 v3
+Intel Xeon E5410
+Intel Xeon E5450
+Intel Xeon L5640
+Intel Xeon X5460
